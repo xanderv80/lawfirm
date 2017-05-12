@@ -1,0 +1,37 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="law.com" resolutions="1x" timestamp="1493772090431">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3992979030" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u97-4.png" crc="394783723" ref="index"/>
+    <file name="u116-7.png" crc="3993940362" ref="index"/>
+    <file name="u140-4.png" crc="91076043" ref="index"/>
+    <file name="u134-16.png" crc="349355418" ref="index"/>
+    <file name="u137-16.png" crc="4207247447" ref="index"/>
+    <file name="u143-4.png" crc="4211405781" ref="index"/>
+    <file name="u146-4.png" crc="4288981784" ref="index"/>
+    <file name="yolanda.jpg" crc="64503338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u131-6.png" crc="4197200246" ref="index"/>
+    <file name="star.png" crc="241180049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u149-10.png" crc="326841064" ref="index"/>
+    <file name="u119-4.png" crc="4068618435" ref="index"/>
+    <file name="u122-4.png" crc="4155254496" ref="index"/>
+    <file name="u125-4.png" crc="3876391431" ref="index"/>
+    <file name="u152-4.png" crc="4268153921" ref="index"/>
+    <file name="u128-7.png" crc="439877048" ref="index"/>
+  </folder>
+  <file name="index.html" crc="219271825" seo="true" mt="1493772051035" redirect="true"/>
+</manifest>
